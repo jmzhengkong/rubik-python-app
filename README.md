@@ -1,7 +1,7 @@
-# 2x2x2 Rubik's Cube Solver
+# 2x2 Rubik's Cube Solver
 
 ### Package contents:
-`app.py` define the main function of 2x2x2 Rubik's Cube Solver
+`app.py` define the main function of 2x2 Rubik's Cube Solver
 
 `layout.py` implement the GUI of our solver.
 
@@ -29,5 +29,3 @@ Start terminal, move to the folder `rubik_app` and run
 ```
 python3 app.py
 ```
-
-### Introduction to GUI
