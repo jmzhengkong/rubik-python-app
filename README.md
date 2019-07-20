@@ -1,4 +1,7 @@
 # 2x2 Rubik's Cube Solver
+This project is to build up an application for giving a sequence of steps to restore a rubik cube.
+
+![A preview of the application](preview.png "A preview of the application")
 
 ### Package contents:
 `app.py` define the main function of 2x2 Rubik's Cube Solver
